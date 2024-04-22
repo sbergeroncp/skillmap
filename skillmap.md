@@ -5,7 +5,7 @@
 ## interface
 * name: Mes premiers tutoriels avec MakeCode Arcade.
 * description: Introduction à la programmation MakeCode.
-* completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
+* completionUrl: 
 
 ### interface-activity1
 
@@ -14,8 +14,8 @@
 * description: Mes premiers blocs
 * tags: facile
 
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/interface/activity1
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
+* url: https://github.com/sbergeroncp/skillmap/tutorials/interface/activity1.md
+* imageUrl: 
 
 ## space
 * name: Design a Space Explorer
