@@ -17,6 +17,16 @@
 * url: https://github.com/sbergeroncp/mesjeux/jeu_1
 * imageUrl: 
 
+### interface-activity2
+
+* name: Découvre MakeCode Arcade
+* type: tutorial
+* description: Mes premiers blocs
+* tags: facile
+
+* url: https://github.com/sbergeroncp/mesjeux/jeu_2
+* imageUrl:
+
 ## space
 * name: Design a Space Explorer
 * description: Let's explore the depths of space! We'll design a vessel for space travel, add some enemies, and populate the universe with planets.
