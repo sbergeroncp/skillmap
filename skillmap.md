@@ -1,6 +1,6 @@
 # sample
-* name: Game Maker Guide
-* description: Level up your game making skills by completing the tutorials in this guide.
+* name: Salut Émilie LD !
+* description: On se revoit tantôt ! 
 
 ## interface
 * name: Learn to use MakeCode Arcade
