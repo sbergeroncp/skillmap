@@ -10,7 +10,7 @@
 ### interface-activity1
 
 * name: Découvre MakeCode Arcade
-* type: tutoriel étape par étape
+* type: tutorial
 * description: Mes premiers blocs
 * tags: facile
 
