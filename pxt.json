@@ -9,7 +9,8 @@
         "README.md",
         "main.blocks",
         "main.ts",
-        "skillmap.md"
+        "skillmap.md",
+        "test_1.md"
     ],
     "testFiles": [
         "test.ts"
