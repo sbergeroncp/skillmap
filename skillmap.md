@@ -3,18 +3,19 @@
 * description: On se revoit tantôt ! 
 
 ## interface
-* name: Learn to use MakeCode Arcade
-* description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
-* completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
+* name: Se familiariser avec l'interface de MakeCode Arcade.
+* description: Mes premiers pas avec la plateforme de programmation MakeCode Arcade.
+* completionUrl:
 
 ### interface-activity1
 
-* name: Learn to use MakeCode Arcade
-* type: tutorial
-* description: Intro to our tutorial cards
-* tags: easy
+* name: Mes premiers pas avec MakeCode Arcade
+* type: Tutoriel
+* description: Mes premiers blocs
+* tags: facile
 
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/interface/activity1 
+* url: https://github.com/sbergeroncp/mesjeux/blob/master/jeu_1
+
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
 
 ## space
