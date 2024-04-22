@@ -14,8 +14,7 @@
 * description: Mes premiers blocs
 * tags: facile
 
-* url: https://github.com/sbergeroncp/mesjeux/blob/master/jeu_1.md
-
+* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/interface/activity1 
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
 
 ## space
