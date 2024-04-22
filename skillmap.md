@@ -17,16 +17,6 @@
 * url: https://github.com/sbergeroncp/mesjeux/jeu_1
 * imageUrl: 
 
-### interface-activity2
-
-* name: Découvre MakeCode Arcade
-* type: tutorial
-* description: Mes premiers blocs
-* tags: facile
-
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity1.png
-
 ## space
 * name: Design a Space Explorer
 * description: Let's explore the depths of space! We'll design a vessel for space travel, add some enemies, and populate the universe with planets.
@@ -40,7 +30,7 @@
 * tags: easy
 * next: space-activity2
 
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
+* url: https://github.com/sbergeroncp/mesjeux/jeu_1
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity1.png
 
 ### space-activity2
@@ -51,7 +41,7 @@
 * tags: easy, projectiles, kinds
 * next: space-activity3
 
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity2
+* url: https://github.com/sbergeroncp/mesjeux/jeu_2
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity2.png
 
 ### space-activity3
@@ -62,7 +52,7 @@
 * tags: easy, enemies, kinds
 * next: space-activity4
 
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity3
+* url: https://github.com/sbergeroncp/mesjeux/jeu_3
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity3.png
 
 ### space-activity4
@@ -73,7 +63,7 @@
 * tags: intermediate, extensions
 
 
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity4
+* url: https://github.com/sbergeroncp/mesjeux/jeu_4
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity4.png
 
 
