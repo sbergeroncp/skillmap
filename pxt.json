@@ -9,14 +9,15 @@
         "README.md",
         "main.blocks",
         "main.ts",
-        "skillmap.md"
+        "skillmap.md",
+        "skillmap_1.md"
     ],
     "testFiles": [
         "test.ts"
     ],
     "public": true,
     "targetVersions": {
-        "target": "1.12.51",
+        "target": "1.12.56",
         "targetId": "arcade"
     },
     "supportedTargets": [

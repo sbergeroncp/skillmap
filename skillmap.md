@@ -1,21 +1,21 @@
 # sample
-* name: MakeCode Arcade
-* description: Se familiriser avec l'interface de MakeCode Arcade.
+* name: Game Maker Guide
+* description: Level up your game making skills by completing the tutorials in this guide.
 
 ## interface
-* name: Mes premiers tutoriels avec MakeCode Arcade.
-* description: Introduction à la programmation MakeCode.
-* completionUrl: 
+* name: Learn to use MakeCode Arcade
+* description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
+* completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
 
 ### interface-activity1
 
-* name: Découvre MakeCode Arcade
+* name: Learn to use MakeCode Arcade
 * type: tutorial
-* description: Mes premiers blocs
-* tags: facile
+* description: Intro to our tutorial cards
+* tags: easy
 
-* url: https://github.com/sbergeroncp/mesjeux/jeu_1
-* imageUrl: 
+* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/interface/activity1 
+* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
 
 ## space
 * name: Design a Space Explorer
@@ -30,7 +30,7 @@
 * tags: easy
 * next: space-activity2
 
-* url: https://github.com/sbergeroncp/mesjeux/jeu_1
+* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity1.png
 
 ### space-activity2
@@ -41,7 +41,7 @@
 * tags: easy, projectiles, kinds
 * next: space-activity3
 
-* url: https://github.com/sbergeroncp/mesjeux/jeu_2
+* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity2
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity2.png
 
 ### space-activity3
@@ -52,7 +52,7 @@
 * tags: easy, enemies, kinds
 * next: space-activity4
 
-* url: https://github.com/sbergeroncp/mesjeux/jeu_3
+* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity3
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity3.png
 
 ### space-activity4
@@ -63,7 +63,7 @@
 * tags: intermediate, extensions
 
 
-* url: https://github.com/sbergeroncp/mesjeux/jeu_4
+* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity4
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity4.png
 
 
